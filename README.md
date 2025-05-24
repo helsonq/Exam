@@ -19,6 +19,10 @@ INSERT INTO products (id, name, count, price) VALUES
 (7, 'Тостер', 2, 2500),
 (8, 'Принтер', 4, 3000);
 
+![image](https://github.com/user-attachments/assets/97f46550-2ce7-4299-89ed-f5d07f8b4d67)
+
+![image](https://github.com/user-attachments/assets/905fe04a-c049-4e5e-821a-636b79e73ad0)
+
 SELECT *
 FROM products
 ORDER BY price;
@@ -26,6 +30,3 @@ ORDER BY price;
 
 ![image](https://github.com/user-attachments/assets/be6def3e-7212-495a-819a-7f6ef9f5ec06)
 
-![image](https://github.com/user-attachments/assets/97f46550-2ce7-4299-89ed-f5d07f8b4d67)
-
-![image](https://github.com/user-attachments/assets/905fe04a-c049-4e5e-821a-636b79e73ad0)
